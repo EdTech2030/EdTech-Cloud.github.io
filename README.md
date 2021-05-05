@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+﻿Readme   Update=2021/03/10 18:39:03
+# Info
+Organization：
+Repositories：
+# Policy
+本资料库利用规则请参阅网址：https://.github.io/policy
 
-You can use the [editor on GitHub](https://github.com/SB-TECH-Group/SB-TECH-Group.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# Content
+本资料库为公开库，资料库内容详细列表请参阅网址：https://.github.io/about
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# 资料库说明
+  
+## Publish
+这个资料库是由工具自动配置并发布的！
+このサイトはツールで自動な作成するものです。
+  
+## 数量与容量
+资料库以最大容量1GB为标准，超过1GB将进行调整，资料库刷新过程中将影响使用。
+静态Web站点资料库数量预定100个，文件资料库约500个，预定数据量1TB（2021年3月1日已保存300GB）。
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<br>
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SB-TECH-Group/SB-TECH-Group.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+本页面由RPA软件，或VB Script自动做成并发布，未经人工预览测试，可能无法正常显示，敬请谅解。 资料库超过1GB将进行拆分或合并。 
